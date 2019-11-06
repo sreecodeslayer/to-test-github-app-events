@@ -1,4 +1,4 @@
 # Remove the silly comment for synchronize event
-# Another edit for edits coz am fucking lazy!
+# GodDAAMMIITTT
 FROM yeasy/simple-web:latest
 
